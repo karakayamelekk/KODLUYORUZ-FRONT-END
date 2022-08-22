@@ -1,0 +1,17 @@
+body {
+    background:rgb(236, 213, 231);
+    color:FFF5E1 ;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 35px;
+}
+
+h1 {
+    color: black;
+    font-size: 40px;
+    
+}
+
+a{
+    color: rgb(84, 72, 72);
+    font-size: 25px;
+}
